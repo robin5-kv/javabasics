@@ -16,6 +16,7 @@ public class test7 {
 		System.out.println("Appeneding name " + sb.append("vincent"));
 
 		System.out.println("aAfter Appending name" + sb);
+		s
 
 	}
 
